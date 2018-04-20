@@ -1,0 +1,124 @@
+#+TITLE: Camping Trip with Andrew
+:PROPERTIES:
+#+Startup: showall
+:END:
+
+* Overview:
+This is a camping trip to scout out a new camp site as a potential
+summer campground while at the same time getting away with Andrew.
+* Dates:
+Arrive: Saturday, 21 April 2018
+Depart: Sunday, 22 April 2018
+* Location:
+Monadnock State Park
+169 Poole Road
+Jaffrey, NH 03452
+2:35 drive from home
+* Prevailing Weather:
+Saturday: Partly Cloudy 31-42; Sunday: Completely Clear 28-48
+[2018-04-18 Wed 13:44]
+* Documentation:
+- [[file:~/Projects/Camping-2018-04/Monadnock_Campground-Info.pdf][Campground Information]]
+- [[file:~/Projects/Camping-2018-04/Monadnock_Campground-Map.pdf][Monadnock Map]]
+- [[file:~/Projects/Camping-2018-04/Gilson-Pond_Campground-Map.pdf][Gilson Pond Map]]
+* Task List:
+** DONE Create packing list  
+- State "DONE"       from "TODO"       [2018-04-18 Wed 14:17]
+** TODO Clear packing area
+** TODO Clean out car
+** TODO Lay out packing list
+** TODO Test lantern
+** TODO Shop for necessary items
+** TODO Help Andrew pack
+** TODO Pack up car
+** TODO Highlight course on map
+* Packing List:
+- [ ] Tent
+- [ ] Tarp
+- [ ] Sleeping bags
+- [ ] Air mattresses
+- [ ] Pillow (Andrew)
+- [ ] Survival knife
+- [ ] Multi-tool
+- [ ] Backpacks
+- [ ] Chairs (2)
+- [ ] Hatchet
+- [ ] Saw
+- [ ] Flashlights (2)
+- [ ] Lantern
+- [ ] Lantern fuel
+- [ ] Water bottles
+- [ ] Water container - 5 gal
+- [ ] Clothing
+  + [ ] Athletic t-shirt
+  + [ ] Athletic underwear (2x)
+  + [ ] Sweatpants
+  + [ ] Hat
+  + [ ] Bathing suit
+  + [ ] Bandana
+  + [ ] Boots
+  + [ ] Wool socks
+  + [ ] Socks
+  + [ ] Jacket
+  + [ ] Flip flops
+- [ ] Grill
+- [ ] Matches
+- [ ] Newspaper
+- [ ] Cardboard
+- [ ] Lighter, filled
+- [ ] Frying Pan
+- [ ] Pot
+- [ ] Leather gloves
+- [ ] Espresso Maker
+- [ ] Coffee
+- [ ] Camp cups
+- [ ] Wine
+- [ ] Corkscrew
+- [ ] Marshmallow Sticks
+- [ ] Cooler
+- [ ] Food
+  + [ ] Marinaded chicken
+  + [ ] Potato
+  + [ ] Butter
+  + [ ] Doritos
+  + [ ] Green Beans
+  + [ ] Eggs (6)
+  + [ ] Tortilla (4)
+  + [ ] Salsa
+  + [ ] Cheddar cheese
+  + [ ] Bacon
+  + [ ] Peanut Butter
+  + [ ] Jelly
+  + [ ] Bread (6 slices)
+  + [ ] Cereal
+  + [ ] Granola bars
+  + [ ] Salt and pepper
+  + [ ] Marshmallows
+- [ ] Silverware
+- [ ] Trash bags
+- [ ] Paper towels
+- [ ] Sponge
+- [ ] Soap
+- [ ] Toiletries
+  + [ ] Toothbrush
+  + [ ] Toothpaste
+  + [ ] Floss
+  + [ ] Deoderant
+  + [ ] Soap
+- [ ] Toilet paper
+- [ ] Cutting board
+- [ ] Insect repellant
+- [ ] First Aid Kit
+- [ ] Rain jacket
+- [ ] Camera bag
+- [ ] Binoculars
+- [ ] Printed maps
+- [ ] Survival books
+- [ ] Kindle
+- [ ] Andrew's books
+- [ ] Bunny
+- [ ] Notebook and pencil
+- [ ] Slingshot
+- [ ] Glow sticks
+- [ ] Soccer ball
+- [ ] Fire starter
