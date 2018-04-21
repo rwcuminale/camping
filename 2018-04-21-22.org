@@ -33,51 +33,53 @@ Saturday: Partly Cloudy 31-42; Sunday: Completely Clear 28-48
 ** TODO Pack up car
 ** TODO Highlight course on map
 * Packing List:
-- [ ] Tent
-- [ ] Tarp
-- [ ] Sleeping bags
-- [ ] Air mattresses
+- [X] Tent
+- [X] Tarp
+- [X] Sleeping bags
+- [X] Air mattresses
 - [ ] Pillow (Andrew)
-- [ ] Survival knife
-- [ ] Multi-tool
-- [ ] Backpacks
-- [ ] Chairs (2)
-- [ ] Hatchet
-- [ ] Saw
-- [ ] Flashlights (2)
-- [ ] Lantern
-- [ ] Lantern fuel
+- [X] Survival knife
+- [X] Multi-tool
+- [X] Backpacks
+- [X] Chairs (2)
+- [X] Hatchet
+- [X] Saw
+- [X] Flashlights
+- [ ] Andrew's flashlight
+- [X] Lantern
+- [X] Lantern fuel
+- [ ] Backup lantern
 - [ ] Water bottles
 - [ ] Water container - 5 gal
-- [ ] Clothing
-  + [ ] Athletic t-shirt
-  + [ ] Athletic underwear (2x)
+- [-] Clothing
+  + [X] Athletic t-shirt
+  + [X] Athletic underwear (2x)
   + [ ] Sweatpants
   + [ ] Hat
   + [ ] Bathing suit
   + [ ] Bandana
   + [ ] Boots
-  + [ ] Wool socks
-  + [ ] Socks
+  + [X] Wool socks
+  + [X] Socks
   + [ ] Jacket
-  + [ ] Flip flops
-- [ ] Grill
-- [ ] Matches
-- [ ] Newspaper
-- [ ] Cardboard
-- [ ] Lighter, filled
-- [ ] Frying Pan
-- [ ] Pot
+  + [X] Flip flops
+- [X] Grill
+- [X] Matches
+- [X] Newspaper
+- [X] Cardboard
+- [X] Lighter, filled
+- [X] Frying Pan
+- [X] Pot
 - [ ] Leather gloves
 - [ ] Espresso Maker
-- [ ] Coffee
-- [ ] Camp cups
+- [X] Coffee
+- [X] Camp cups
 - [ ] Wine
-- [ ] Corkscrew
+- [X] Corkscrew
 - [ ] Marshmallow Sticks
-- [ ] Cooler
+- [X] Cooler
 - [ ] Food
-  + [ ] Marinaded chicken
+  + [ ] Marinaded steaks
   + [ ] Potato
   + [ ] Butter
   + [ ] Doritos
@@ -94,31 +96,31 @@ Saturday: Partly Cloudy 31-42; Sunday: Completely Clear 28-48
   + [ ] Granola bars
   + [ ] Salt and pepper
   + [ ] Marshmallows
-- [ ] Silverware
-- [ ] Trash bags
-- [ ] Paper towels
-- [ ] Sponge
-- [ ] Soap
+- [X] Silverware
+- [X] Trash bags
+- [X] Paper towels
+- [X] Sponge
+- [X] Soap
 - [ ] Toiletries
   + [ ] Toothbrush
   + [ ] Toothpaste
   + [ ] Floss
   + [ ] Deoderant
   + [ ] Soap
-- [ ] Toilet paper
-- [ ] Cutting board
-- [ ] Insect repellant
-- [ ] First Aid Kit
-- [ ] Rain jacket
-- [ ] Camera bag
-- [ ] Binoculars
+- [X] Toilet paper
+- [X] Cutting board
+- [X] Insect repellant
+- [X] First Aid Kit
+- [X] Rain jacket
+- [X] Camera bag
+- [X] Binoculars
 - [ ] Printed maps
-- [ ] Survival books
+- [X] Survival books
 - [ ] Kindle
 - [ ] Andrew's books
 - [ ] Bunny
 - [ ] Notebook and pencil
-- [ ] Slingshot
+- [X] Slingshot
 - [ ] Glow sticks
-- [ ] Soccer ball
-- [ ] Fire starter
+- [X] Soccer ball
+- [X] Fire starter
