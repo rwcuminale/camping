@@ -78,15 +78,15 @@ Saturday: Partly Cloudy 31-42; Sunday: Completely Clear 28-48
 - [X] Corkscrew
 - [ ] Marshmallow Sticks
 - [X] Cooler
-- [ ] Food
-  + [ ] Marinaded steaks
-  + [ ] Potato
+- [-] Food
+  + [X] Marinaded steaks
+  + [X] Potato
   + [ ] Butter
-  + [ ] Doritos
-  + [ ] Green Beans
+  + [X] Doritos
+  + [X] Green Beans
   + [ ] Eggs (6)
-  + [ ] Tortilla (4)
-  + [ ] Salsa
+  + [X] Tortilla (4)
+  + [X] Salsa
   + [ ] Cheddar cheese
   + [ ] Bacon
   + [ ] Peanut Butter
@@ -94,8 +94,8 @@ Saturday: Partly Cloudy 31-42; Sunday: Completely Clear 28-48
   + [ ] Bread (6 slices)
   + [ ] Cereal
   + [ ] Granola bars
-  + [ ] Salt and pepper
-  + [ ] Marshmallows
+  + [X] Salt and pepper
+  + [X] Marshmallows
 - [X] Silverware
 - [X] Trash bags
 - [X] Paper towels
